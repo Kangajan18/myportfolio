@@ -1,0 +1,21 @@
+.container {
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 10px;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgba(255, 0, 43, 0.295);
+  padding: 25px;
+  border-radius: 30px;
+  width: 160px;
+  height: auto;
+  margin: 10px;
+}
+.boxesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
