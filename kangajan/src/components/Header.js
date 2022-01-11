@@ -18,9 +18,6 @@ const Header = () => {
               <span >Skills</span>
             </Nav.Link>
             <Nav.Link href="#pricing">
-              <span>Experience</span>
-            </Nav.Link>
-            <Nav.Link href="#pricing">
               <span>Contact</span>
             </Nav.Link>
           </Nav>

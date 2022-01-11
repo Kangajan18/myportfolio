@@ -1,0 +1,25 @@
+li{
+    list-style: none;
+}
+
+.cardBody{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: left;
+    background-color:rgb(160, 160, 160);
+}
+
+.footerHeader{
+    background-color:black;
+    height:40px;
+}
+.Address{
+    
+    background-color:rgba(0, 0, 0, 0.486);
+    color:white;
+    padding-right: 25px;
+    align-items: center;
+    text-align:center;
+    width:25%;
+}
